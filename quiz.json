@@ -1,6 +1,6 @@
 [
     {
-        "Question 1 of 20": "Which one is the highest-grossing film ever?",
+        "Question": "1/20 Which one is the highest-grossing film ever?",
         "A": "Titanic",
         "B": "Avengers:Endgame",
         "C": "Avatar",
@@ -8,7 +8,7 @@
         "right_answer": "C"
     },
     {
-        "Question 2 of 20": "Where were The Lord of the Rings movies filmed?",
+        "Question": "2/20 Where were The Lord of the Rings movies filmed?",
         "A": "New Zealand",
         "B": "Australia",
         "C": "Poland",
@@ -16,7 +16,7 @@
         "right_answer": "A"
     },
     {
-        "Question 3 of 20": "How many Oscars Titanic won?",
+        "Question": "3/20 How many Oscars Titanic won?",
         "A": "10",
         "B": "9",
         "C": "11",
@@ -24,7 +24,7 @@
         "right_answer": "C"
     },
     {
-        "Question 4 of 20": "Which movie isn't directed by Quentin Tarantino?",
+        "Question": "4/20 Which movie isn't directed by Quentin Tarantino?",
         "A": "Pulp Fiction",
         "B": "Inglorious Bastards",
         "C": "Reservoir Dogs",
@@ -32,14 +32,14 @@
         "right_answer": "D"
     },
     {
-        "Question 5 of 20": "Wchich composer won most Oscars?",
+        "Question": "5/20 Wchich composer won most Oscars?",
         "A": "John Williams",
         "B": "Alfred Newman",
         "C": "Henry Mancini",
         "D": "John Barry",
         "right_answer": "B: 9"
     },{
-        "Question 6 of 20": "Which actor played in most movies?",
+        "Question": "6/20 Which actor played in most movies?",
         "A": "Clint Eastwood",
         "B": "Sean Connery",
         "C": "Eric Roberts",
@@ -47,7 +47,7 @@
         "right_answer": "C: over 600"
     },
     {
-        "Question 7 of 20": "Which one is the most expensive film ever?",
+        "Question": "7/20 Which one is the most expensive film ever?",
         "A": "Titanic",
         "B": "Avengers:Endgame",
         "C": "Avatar",
@@ -55,7 +55,7 @@
         "right_answer": "D: 387 milions"
     },
     {
-        "Question 8 of 20": "Who is most expensive actor to hire?",
+        "Question": "8/20 Who is most expensive actor to hire?",
         "A": "Dwayne Johnson",
         "B": "Daniel Craig",
         "C": "Robert Downey Jr",
@@ -63,7 +63,7 @@
         "right_answer": "B: 100 millions for Knives out"
     },
     {
-        "Question 9 of 20": "Who is the most adapted author ever?",
+        "Question": "9/20 Who is the most adapted author ever?",
         "A": "Stephen King",
         "B": "Michael Crichton",
         "C": "Nicholas Sparks",
@@ -71,7 +71,7 @@
         "right_answer": "C: 11"
     },
     {
-        "Question 10 of 20": "Which actors has the most Oscar nominations without a win?",
+        "Question": "10/20 Which actors has the most Oscar nominations without a win?",
         "A": "Peter O'Toole",
         "B": "Annette Bening",
         "C": "Sigourney Weaver",
@@ -79,7 +79,7 @@
         "right_answer": "A: 8"
     },
     {
-        "Question 11 of 20": "Who had 14 nominations for Worst Actor at the Razzies?",
+        "Question": "11/20 Who had 14 nominations for Worst Actor at the Razzies?",
         "A": "Nicolas Cage",
         "B": "Arnold Schwarzenegger",
         "C": "Sylvester Stallone",
@@ -87,7 +87,7 @@
         "right_answer": "C"
     },
     {
-        "Question 12 of 20": "Who was offerd role of Han Solo but not accepted?",
+        "Question": "12/20 Who was offerd role of Han Solo but not accepted?",
         "A": "Al Pacino",
         "B": "Sean Connery",
         "C": "Michael Douglas",
@@ -95,7 +95,7 @@
         "right_answer": "A"
     },
     {
-        "Question 13 of 20": "Who adapted graphic novel 'Watchmen?' to movie?",
+        "Question": "13/20Who adapted graphic novel 'Watchmen?' to movie?",
         "A": "Zac Snyder",
         "B": "Steven Spielberg",
         "C": "Christopher Nolan",
@@ -103,7 +103,7 @@
         "right_answer": "A"
     },
     {
-        "Question 14 of 20": "What is the cheapest movie made with highest gross?",
+        "Question": "14/20 What is the cheapest movie made with highest gross?",
         "A": "Rocky",
         "B": "Reservoir Dogs",
         "C": "The Blair Witch Project",
@@ -111,7 +111,7 @@
         "right_answer": "C: made for 60,000 but grossed 249 millions"
     },
     {
-        "Question 15 of 20": "What is real name of Marylin Monroe?",
+        "Question": "15/20 What is real name of Marylin Monroe?",
         "A": "Mary Monroe",
         "B": "Norma Jeane Baker",
         "C": "Mandy Johnson",
@@ -119,7 +119,7 @@
         "right_answer": "B"
     },
     {
-        "Question 16 of 20": "On who's book is 'Blade Runner' based on?",
+        "Question": "16/20 On who's book is 'Blade Runner' based on?",
         "A": "Arthur C. Clarke",
         "B": "Robert A. Heinlein",
         "C": "Isaac Asimov",
@@ -127,7 +127,7 @@
         "right_answer": "D"
     },
     {
-        "Question 17 of 20": "Who is the highest-grossing film director in history?",
+        "Question": "17/20 Who is the highest-grossing film director in history?",
         "A": "James Cameron",
         "B": "Steven Spielberg",
         "C": "Peter Jackson",
@@ -135,7 +135,7 @@
         "right_answer": "B"
     },
     {
-        "Question 18 of 20": "What is the biggest flop in movie history?",
+        "Question": "18/20 What is the biggest flop in movie history?",
         "A": "King Arthur: Legend of the Sword",
         "B": "John Carter",
         "C": "The Lone Ranger",
@@ -143,7 +143,7 @@
         "right_answer": "A: lost 150 millions"
     },
     {
-        "Question 19 of 20": "Who got two Oacars in a row?",
+        "Question": "19/20 Who got two Oacars in a row?",
         "A": "Meryl Streep",
         "B": "Tom Hanks",
         "C": "Jack Nicholson",
@@ -151,7 +151,7 @@
         "right_answer": "B: 1993 and 1994"
     },
     {
-        "Question 20 of 20": "Who one is the highest-grossing actor?",
+        "Question": "20/20 Who one is the highest-grossing actor?",
         "A": "Bruce Willis",
         "B": "Arnold Schwarzenegger",
         "C": "Samuel L. Jackson",
