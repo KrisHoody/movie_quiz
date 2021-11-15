@@ -37,14 +37,14 @@
         "B": "Alfred Newman",
         "C": "Henry Mancini",
         "D": "John Barry",
-        "right_answer": "D"
+        "right_answer": "B: 9"
     },{
         "Question 6 of 20": "Which actor played in most movies?",
         "A": "Clint Eastwood",
         "B": "Sean Connery",
         "C": "Eric Roberts",
         "D": "Michael Douglas",
-        "right_answer": "C"
+        "right_answer": "C: over 600"
     },
     {
         "Question 7 of 20": "Which one is the most expensive film ever?",
@@ -52,110 +52,110 @@
         "B": "Avengers:Endgame",
         "C": "Avatar",
         "D": "Pirates of the Caribbean: On Stranger Tides",
+        "right_answer": "D: 387 milions"
+    },
+    {
+        "Question 8 of 20": "Who is most expensive actor to hire?",
+        "A": "Dwayne Johnson",
+        "B": "Daniel Craig",
+        "C": "Robert Downey Jr",
+        "D": "Ryan Reynolds",
+        "right_answer": "B: 100 millions for Knives out"
+    },
+    {
+        "Question 9 of 20": "Who is the most adapted author ever?",
+        "A": "Stephen King",
+        "B": "Michael Crichton",
+        "C": "Nicholas Sparks",
+        "D": "Jane Austen",
+        "right_answer": "C: 11"
+    },
+    {
+        "Question 10 of 20": "Which actors has the most Oscar nominations without a win?",
+        "A": "Peter O'Toole",
+        "B": "Annette Bening",
+        "C": "Sigourney Weaver",
+        "D": "Amy Adams",
+        "right_answer": "A: 8"
+    },
+    {
+        "Question 11 of 20": "Who had 14 nominations for Worst Actor at the Razzies?",
+        "A": "Nicolas Cage",
+        "B": "Arnold Schwarzenegger",
+        "C": "Sylvester Stallone",
+        "D": "Bruce Willis",
+        "right_answer": "C"
+    },
+    {
+        "Question 12 of 20": "Who was offerd role of Han Solo but not accepted?",
+        "A": "Al Pacino",
+        "B": "Sean Connery",
+        "C": "Michael Douglas",
+        "D": "Robert Englund",
+        "right_answer": "A"
+    },
+    {
+        "Question 13 of 20": "Who adapted graphic novel 'Watchmen?' to movie?",
+        "A": "Zac Snyder",
+        "B": "Steven Spielberg",
+        "C": "Christopher Nolan",
+        "D": "Michael Bay",
+        "right_answer": "A"
+    },
+    {
+        "Question 14 of 20": "What is the cheapest movie made with highest gross?",
+        "A": "Rocky",
+        "B": "Reservoir Dogs",
+        "C": "The Blair Witch Project",
+        "D": "Mad Max",
+        "right_answer": "C: made for 60,000 but grossed 249 millions"
+    },
+    {
+        "Question 15 of 20": "What is real name of Marylin Monroe?",
+        "A": "Mary Monroe",
+        "B": "Norma Jeane Baker",
+        "C": "Mandy Johnson",
+        "D": "Matilda Monroe",
+        "right_answer": "B"
+    },
+    {
+        "Question 16 of 20": "On who's book is 'Blade Runner' based on?",
+        "A": "Arthur C. Clarke",
+        "B": "Robert A. Heinlein",
+        "C": "Isaac Asimov",
+        "D": "Philip K. Dick",
         "right_answer": "D"
     },
     {
-        "Question 8 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
+        "Question 17 of 20": "Who is the highest-grossing film director in history?",
+        "A": "James Cameron",
+        "B": "Steven Spielberg",
+        "C": "Peter Jackson",
+        "D": "Michael Bay",
+        "right_answer": "B"
     },
     {
-        "Question 9 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
+        "Question 18 of 20": "What is the biggest flop in movie history?",
+        "A": "King Arthur: Legend of the Sword",
+        "B": "John Carter",
+        "C": "The Lone Ranger",
+        "D": "47 Ronin",
+        "right_answer": "A: lost 150 millions"
     },
     {
-        "Question 10 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
+        "Question 19 of 20": "Who got two Oacars in a row?",
+        "A": "Meryl Streep",
+        "B": "Tom Hanks",
+        "C": "Jack Nicholson",
+        "D": "Robert De Niro",
+        "right_answer": "B: 1993 and 1994"
     },
     {
-        "Question 11 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 12 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 13 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 14 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 15 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 16 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 17 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 18 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 19 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
-        "right_answer": "C"
-    },
-    {
-        "Question 20 of 20": "Which one is the highest-grossing film ever?",
-        "A": "Titanic",
-        "B": "Avengers:Endgame",
-        "C": "Avatar",
-        "D": "Lord of the Rings: The Fellow Ship of the Rings",
+        "Question 20 of 20": "Who one is the highest-grossing actor?",
+        "A": "Bruce Willis",
+        "B": "Arnold Schwarzenegger",
+        "C": "Samuel L. Jackson",
+        "D": "Robert Downey Jr.",
         "right_answer": "C"
     }
 ]
