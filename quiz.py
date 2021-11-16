@@ -2,9 +2,10 @@ import json
 print ("Welcome to movie quiz")
 print("Enter your name, please: ")
 x = input()
-print("Welcome, " + x, "You will be presented with 20 Questions. Enter your choice to get the points. Good luck!")
+print("Welcome, " + x) 
+print("You will be presented with 20 Questions. Enter your choice to get the points. Good luck!")
 score = 0
-name =""
+name = ""
 
    
 def questions(all_questions):
@@ -21,11 +22,27 @@ def questions(all_questions):
 
     if guest_answer == all_questions["right_answer"]:
         score += 1
-        print("Great! You've earned a point. You've got:", score, "points" )
+        print("Great! You've earned a point. You've got:", score, "points")
            
     else:
         print("Sorry, this is wrong answer")
         print("The right answer is", all_questions["right_answer"])
+
+def only_num(guest_answer):
+    while True:
+     try:
+        userInput = int(input()) 
+     except ValueError:
+            print("Enter anumber. Please")
+     else:
+         return 
+         guest_answer
+         break
+
+            
+
+
+
         
 
 with open("quiz_main.json") as que_s:
